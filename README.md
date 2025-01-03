@@ -90,18 +90,8 @@ python inferenceclassfier.py
 
 ---
 
-## Demo
-![Demo](https://via.placeholder.com/800x400.png?text=Demo+Video+or+Image)
-
----
-
 ## Contribution
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
